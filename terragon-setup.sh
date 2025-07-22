@@ -1,3 +1,3 @@
 #!/bin/bash
 
-"$YEET" > wow.txt;
+echo "$YEET" > wow.txt;
